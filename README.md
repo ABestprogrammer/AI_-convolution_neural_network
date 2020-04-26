@@ -1,6 +1,6 @@
 # AI_-convolution_neural_network
 
-Convolution neural network implemented in python (KERAS)
+Convolution neural network implemented in Python (KERAS)
 
 VGG16 ConvNeural Network, ResNet50 ConvNeural Network and comparison beetwen their results
 
